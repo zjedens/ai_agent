@@ -1,0 +1,2 @@
+
+MAX_READ_BYTES = 10000 # bytes
